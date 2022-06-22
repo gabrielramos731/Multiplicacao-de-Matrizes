@@ -10,7 +10,7 @@ void Apresenta (int m[L][C]);
 void CriaOposta (int o[L][C], int m[L][C]);
 void Multiplica (int p[L][C], int m[L][C], int o[L][C]);
 
-int main() //Gabriel Ramos da Silba - 06/2021
+int main() //Gabriel Ramos da Silva - 06/2021
 {
     scanf ("%d %d", &L, &C);
 
